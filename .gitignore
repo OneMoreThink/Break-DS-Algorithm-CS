@@ -28,3 +28,4 @@ Thumbs.db
 # Test outputs
 test_results/
 *.log
+LEARNING_GUIDE.md
